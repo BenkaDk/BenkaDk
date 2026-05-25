@@ -25,13 +25,4 @@ benjamin = {
     "goal":       "Ship. Break. Repeat.",
 }
 ```
-
-
-
-## 📫 Get In Touch
-
-[![GitHub](https://img.shields.io/badge/GitHub-BenkaDk-181717?style=flat-square&logo=github)](https://github.com/BenkaDk)
-
----
-
 <p align="center"><i>"The quieter you become, the more you can hear."</i></p>
