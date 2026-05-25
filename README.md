@@ -11,7 +11,7 @@
 - 📈 Building trading algorithms & fintech tools
 - 🎓 Studying Entrepreneurship & Design @ EK Copenhagen
 - 🌍 Based in Copenhagen, Denmark
-- ⚡ Background: Certified electrician (svendeprøve) → alarm/security tech → software dev
+- ⚡ Background: Certified electrician → alarm/security tech → software dev
 
 ---
 
