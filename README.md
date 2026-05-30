@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 - 🔴 Red team security testing & penetration testing
-- 🐍 Python developer — scripting, automation & SaaS development
+- 🐍 Python developer — scripting, automation, exploits
 - 📈 Building trading algorithms & fintech tools
 - 🌍 Based in Copenhagen, Denmark
 - ⚡ Background: Certified electrician → alarm/security tech → software dev
